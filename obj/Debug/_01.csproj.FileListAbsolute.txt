@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\_01\bin\_01.dll.config
+C:\Users\Admin\source\repos\_01\bin\_01.dll
+C:\Users\Admin\source\repos\_01\bin\_01.pdb
+C:\Users\Admin\source\repos\_01\obj\Debug\_01.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\_01\obj\Debug\_01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\_01\obj\Debug\_01.dll
+C:\Users\Admin\source\repos\_01\obj\Debug\_01.pdb
